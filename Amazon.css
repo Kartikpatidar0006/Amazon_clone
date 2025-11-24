@@ -28,7 +28,7 @@
 
 
 .navbar01{
-    background-image: url(amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -255,7 +255,7 @@
 /* -----------------------------------------------------------------------main start-------------------- */
 
 .hero{
-    background-image: url(hero-section-image.jpg);
+    background-image: url(images/hero-section-image.jpg);
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
